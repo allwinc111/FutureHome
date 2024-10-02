@@ -1,10 +1,6 @@
-# Wayfair Shop
+# FutureHome
 
-Wayfair Shop is a responsive e-commerce website template for a furniture and home decor store. It features a modern design with sections for featured products, deals, about us, and customer testimonials.
-
-## Demo
-
-Check out the live demo: [Wayfair Shop Demo](https://ashvinupadhyay1132.github.io/Wayfair-Shop/)
+FutureHome is a responsive e-commerce website template for a furniture and home decor store. It features a modern design with sections for featured products, deals, about us, and customer testimonials.
 
 ## Features
 
@@ -41,8 +37,3 @@ You can easily customize the content, colors, and styles by modifying the HTML a
 
 Contributions are welcome! If you'd like to improve the template or add new features, please fork the repository and create a pull request.
 
-## Contact
-
-Ashvin Upadhyay - ashvinupadhyay1132@gmail.com
-
-Project Link: [https://github.com/ashvinupadhyay1132/Wayfair-Shop](https://github.com/ashvinupadhyay1132/Wayfair-Shop)
